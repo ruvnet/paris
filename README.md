@@ -7,6 +7,17 @@ Perpetual feedback loops are a way for computer programs to learn from their own
 
 PARIS is inspired by other layered models such as the OSI model. The Open Systems Interconnection model (OSI model) is a conceptual model that "provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection." In the OSI reference model, the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
 
+## Do Robots Dream?
+Imagine how when you sleep, your brain goes into a state of dreaming, which is a kind of regenerative feedback loop. While you dream, your brain processes and restructures the information it has learned during the day, making connections and forming new neural pathways. This is how your brain builds and repairs itself, allowing you to learn and grow over time.
+
+Now, imagine if we could apply this same concept to computer systems and artificial intelligence. That's where PARIS comes in. PARIS is a framework for creating and optimizing machine learning models that can learn and improve over time through perpetual feedback loops.
+
+Just as your brain builds and repairs itself during dreaming, PARIS enables machines to fine-tune and optimize their performance by continually processing and analyzing data, making connections and forming new insights. This allows for more accurate predictions and better decision-making.
+
+PARIS achieves this through a layered model that includes a core model for data infrastructure, an AI API for managing communication sessions, AI applications for evaluation and feedback, and custom applications for specialized use cases. Additionally, the framework includes regenerative components such as code generators and self-improvement techniques.
+
+The AiTOML specification is a standard for organizing and managing the different components of the PARIS framework. It provides a clear and concise way to define the various layers, components, and parameters of the framework, making it easy to manage and optimize over time.
+
 ## Layers
 PARIS is a four-layered network model that consists of the following layers:
 
