@@ -203,6 +203,8 @@ privacy = "data-privacy-and-security-regulations"
 In this example, we have a JSON object representing a legal contract with an ID, the contract text, information about the parties involved, and the specific terms of the agreement. It uses feedback data for three samples, each with a term field and a feedback_label indicating whether the predicted output for that term was correct or incorrect. The second sample also includes additional feedback comments explaining why the predicted output was incorrect.
 
 ### Legal Feedback
+this is an example of how a ai system can learn and improve its ability to understand legal contracts. The program receives feedback on its understanding of specific terms in the contract, which is stored in a file called "legal_contract_feedback.json". The feedback includes a unique ID for each term, whether the program's understanding of the term is correct or incorrect, and any comments or suggestions for improvement. This feedback is used to update the program's understanding of legal contracts, making it more accurate over time.
+
 /feedback/legal_contract_feedback.json:
 
 ```
