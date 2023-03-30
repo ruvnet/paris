@@ -33,7 +33,7 @@ This layer includes specialized applications built on top of AI API, methods for
 * Layer 3: Custom Applications, Explainability, Feedback, and Regeneration
 This layer includes applications catering to niche markets or specialized use cases, strategies for enhancing explainability and interpretability, feedback loops for refinement based on user feedback, and regenerative components for AI-generated code improvements and self-optimizing algorithms.
 
-# Table
+# The Ai Stack
 The following table maps the PARIS framework to the OSI model:
 
 | PARIS Layer | Protocol Data Unit (PDU) | Function                                                                                                  |
